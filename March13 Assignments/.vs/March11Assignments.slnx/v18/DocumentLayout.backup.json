@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Capegemini\\Visual Studio\\March11 Assignments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCdemo\\MVCdemo.csproj|e:\\capegemini\\visual studio\\march11 assignments\\mvcdemo\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCdemo\\MVCdemo.csproj|solutionrelative:mvcdemo\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCdemo\\MVCdemo.csproj|e:\\capegemini\\visual studio\\march11 assignments\\mvcdemo\\views\\dog\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCdemo\\MVCdemo.csproj|solutionrelative:mvcdemo\\views\\dog\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCdemo\\MVCdemo.csproj|e:\\capegemini\\visual studio\\march11 assignments\\mvcdemo\\views\\dog\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCdemo\\MVCdemo.csproj|solutionrelative:mvcdemo\\views\\dog\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCdemo\\MVCdemo.csproj|e:\\capegemini\\visual studio\\march11 assignments\\mvcdemo\\views\\dog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCdemo\\MVCdemo.csproj|solutionrelative:mvcdemo\\views\\dog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCdemo\\MVCdemo.csproj|e:\\capegemini\\visual studio\\march11 assignments\\mvcdemo\\views\\dog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCdemo\\MVCdemo.csproj|solutionrelative:mvcdemo\\views\\dog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCdemo\\MVCdemo.csproj|e:\\capegemini\\visual studio\\march11 assignments\\mvcdemo\\views\\dog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCdemo\\MVCdemo.csproj|solutionrelative:mvcdemo\\views\\dog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCdemo\\MVCdemo.csproj|e:\\capegemini\\visual studio\\march11 assignments\\mvcdemo\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCdemo\\MVCdemo.csproj|solutionrelative:mvcdemo\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCdemo\\MVCdemo.csproj|e:\\capegemini\\visual studio\\march11 assignments\\mvcdemo\\models\\dept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCdemo\\MVCdemo.csproj|solutionrelative:mvcdemo\\models\\dept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCdemo\\MVCdemo.csproj|e:\\capegemini\\visual studio\\march11 assignments\\mvcdemo\\models\\employee\u0027.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCdemo\\MVCdemo.csproj|solutionrelative:mvcdemo\\models\\employee\u0027.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\March11 Assignments\\MVCdemo\\Views\\Dog\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVCdemo\\Views\\Dog\\Delete.cshtml",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\March11 Assignments\\MVCdemo\\Views\\Dog\\Delete.cshtml",
+              "RelativeToolTip": "MVCdemo\\Views\\Dog\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T05:26:24.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\March11 Assignments\\MVCdemo\\Views\\Dog\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCdemo\\Views\\Dog\\Edit.cshtml",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\March11 Assignments\\MVCdemo\\Views\\Dog\\Edit.cshtml",
+              "RelativeToolTip": "MVCdemo\\Views\\Dog\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T05:14:41.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\March11 Assignments\\MVCdemo\\Views\\Dog\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVCdemo\\Views\\Dog\\Details.cshtml",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\March11 Assignments\\MVCdemo\\Views\\Dog\\Details.cshtml",
+              "RelativeToolTip": "MVCdemo\\Views\\Dog\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T05:06:03.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\March11 Assignments\\MVCdemo\\Views\\Dog\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCdemo\\Views\\Dog\\Index.cshtml",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\March11 Assignments\\MVCdemo\\Views\\Dog\\Index.cshtml",
+              "RelativeToolTip": "MVCdemo\\Views\\Dog\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T04:54:03.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\March11 Assignments\\MVCdemo\\Views\\Dog\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCdemo\\Views\\Dog\\Create.cshtml",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\March11 Assignments\\MVCdemo\\Views\\Dog\\Create.cshtml",
+              "RelativeToolTip": "MVCdemo\\Views\\Dog\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T04:23:18.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DogController.cs",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\March11 Assignments\\MVCdemo\\Controllers\\DogController.cs",
+              "RelativeDocumentMoniker": "MVCdemo\\Controllers\\DogController.cs",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\March11 Assignments\\MVCdemo\\Controllers\\DogController.cs*",
+              "RelativeToolTip": "MVCdemo\\Controllers\\DogController.cs*",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAwwIcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:17:22.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\March11 Assignments\\MVCdemo\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "MVCdemo\\Models\\Dog.cs",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\March11 Assignments\\MVCdemo\\Models\\Dog.cs",
+              "RelativeToolTip": "MVCdemo\\Models\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:09:55.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee\u0027.cs",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\March11 Assignments\\MVCdemo\\Models\\Employee\u0027.cs",
+              "RelativeDocumentMoniker": "MVCdemo\\Models\\Employee\u0027.cs",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\March11 Assignments\\MVCdemo\\Models\\Employee\u0027.cs",
+              "RelativeToolTip": "MVCdemo\\Models\\Employee\u0027.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T05:55:17.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dept.cs",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\March11 Assignments\\MVCdemo\\Models\\Dept.cs",
+              "RelativeDocumentMoniker": "MVCdemo\\Models\\Dept.cs",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\March11 Assignments\\MVCdemo\\Models\\Dept.cs",
+              "RelativeToolTip": "MVCdemo\\Models\\Dept.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T04:48:54.248Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

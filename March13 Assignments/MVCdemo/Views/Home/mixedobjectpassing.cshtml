@@ -1,0 +1,56 @@
+﻿@model MVCdemo.Models.EmpdeptViewModel
+@{
+    ViewData["Title"] = "mixedobjectpassing";
+}
+
+<h1>mixedobjectpassing</h1>
+
+
+<h3>Employee Details</h3>
+
+<table border="1" cellpadding="2" cellspacing="3">
+
+    <tr>
+        <th>EmployeeID </th>
+        <th>Empname</th>
+        <th>EmpSalary</th>
+        <th>Date</th>
+    </tr>
+
+    <tr>
+        <td>@Model.emp.EmployeeID</td>
+        <td>@Model.emp.EmpName</td>
+        <td>@Model.emp.Salary</td>
+        <td>@Model.date</td>
+    </tr>
+
+</table>
+
+<br />
+
+<h3>Employee Image</h3>
+
+<img src="@Model.emp.ImageUrl" width="150" height="150" />
+
+<br />
+<br />
+
+<h3>Department List</h3>
+
+<table border="1" cellpadding="2" cellspacing="3">
+
+    <tr>
+        <th>DeptID</th>
+        <th>DeptName</th>
+    </tr>
+
+    @foreach (var d in Model.deptlist)
+    {
+        <tr>
+            <td>@d.DeptID</td>
+            <td>@d.DeptName</td>
+        </tr>
+    }
+
+
+</table>
