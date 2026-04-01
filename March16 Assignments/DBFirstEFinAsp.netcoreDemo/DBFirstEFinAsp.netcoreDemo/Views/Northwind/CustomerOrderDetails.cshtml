@@ -1,0 +1,34 @@
+﻿@model IEnumerable<DBFirstEFinAsp.netcoreDemo.Models.OrdersQry>
+
+@{
+    ViewData["Title"] = "Customer Orders";
+}
+
+<h2>Customer Orders</h2>
+
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Order ID</th>
+            <th>Order Date</th>
+            <th>Shipped Date</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.OrderId</td>
+                <td>@item.OrderDate</td>
+                <td>@item.ShippedDate</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<br />
+
+<a asp-action="OrderRange" class="btn btn-secondary">
+    Back to Customers
+</a>

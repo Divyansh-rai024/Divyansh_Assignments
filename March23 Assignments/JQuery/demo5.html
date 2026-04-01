@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jQuery Actions</title>
+
+    <style>
+        #change_me {
+            position: absolute;
+            top: 100px;
+            left: 400px;
+            font: 24px Arial;
+        }
+
+        #move_up, #move_down, #color, #disappear {
+            padding: 5px;
+            margin: 5px;
+        }
+    </style>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+
+         
+            $("#move_up").click(function () {
+                $("#change_me").animate({
+                    top: "-=50px"
+                });
+            });
+
+            $("#move_down").click(function () {
+                $("#change_me").animate({
+                    top: "+=50px"
+                });
+            });
+
+           
+          $("#color").click(function () {
+    let currentColor = $("#change_me").css("color");
+
+    if (currentColor === "rgb(255, 0, 0)") {
+        $("#change_me").css("color", "blue");
+    } else {
+        $("#change_me").css("color", "red");
+    }
+});
+
+            $("#disappear").click(function () {
+                $("#change_me").fadeToggle();
+            });
+
+        });
+    </script>
+</head>
+
+<body>
+
+    <button id="move_up">Move Up</button>
+    <button id="move_down">Move Down</button>
+    <button id="color">Change Color</button>
+    <button id="disappear">Disappear/Re-appear</button>
+
+    <div id="change_me">Make Me Do Stuff!</div>
+
+</body>
+</html>

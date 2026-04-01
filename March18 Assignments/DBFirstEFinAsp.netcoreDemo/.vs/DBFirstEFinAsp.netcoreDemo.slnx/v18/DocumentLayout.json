@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Capegemini\\Visual Studio\\Day 49 Projects\\DBFirstEFinAsp.netcoreDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79880B75-C857-E1CE-9544-FC3DD33FED96}|DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo.csproj|e:\\capegemini\\visual studio\\day 49 projects\\dbfirstefinasp.netcoredemo\\dbfirstefinasp.netcoredemo\\views\\northwind\\customerorderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79880B75-C857-E1CE-9544-FC3DD33FED96}|DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo.csproj|solutionrelative:dbfirstefinasp.netcoredemo\\views\\northwind\\customerorderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880B75-C857-E1CE-9544-FC3DD33FED96}|DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo.csproj|e:\\capegemini\\visual studio\\day 49 projects\\dbfirstefinasp.netcoredemo\\dbfirstefinasp.netcoredemo\\views\\northwind\\orderrange.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79880B75-C857-E1CE-9544-FC3DD33FED96}|DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo.csproj|solutionrelative:dbfirstefinasp.netcoredemo\\views\\northwind\\orderrange.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880B75-C857-E1CE-9544-FC3DD33FED96}|DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo.csproj|e:\\capegemini\\visual studio\\day 49 projects\\dbfirstefinasp.netcoredemo\\dbfirstefinasp.netcoredemo\\controllers\\northwindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79880B75-C857-E1CE-9544-FC3DD33FED96}|DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo.csproj|solutionrelative:dbfirstefinasp.netcoredemo\\controllers\\northwindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880B75-C857-E1CE-9544-FC3DD33FED96}|DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo.csproj|e:\\capegemini\\visual studio\\day 49 projects\\dbfirstefinasp.netcoredemo\\dbfirstefinasp.netcoredemo\\views\\northwind\\searchcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79880B75-C857-E1CE-9544-FC3DD33FED96}|DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo.csproj|solutionrelative:dbfirstefinasp.netcoredemo\\views\\northwind\\searchcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880B75-C857-E1CE-9544-FC3DD33FED96}|DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo.csproj|e:\\capegemini\\visual studio\\day 49 projects\\dbfirstefinasp.netcoredemo\\dbfirstefinasp.netcoredemo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79880B75-C857-E1CE-9544-FC3DD33FED96}|DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo.csproj|solutionrelative:dbfirstefinasp.netcoredemo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880B75-C857-E1CE-9544-FC3DD33FED96}|DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo.csproj|e:\\capegemini\\visual studio\\day 49 projects\\dbfirstefinasp.netcoredemo\\dbfirstefinasp.netcoredemo\\models\\prodcat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79880B75-C857-E1CE-9544-FC3DD33FED96}|DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo.csproj|solutionrelative:dbfirstefinasp.netcoredemo\\models\\prodcat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880B75-C857-E1CE-9544-FC3DD33FED96}|DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo.csproj|e:\\capegemini\\visual studio\\day 49 projects\\dbfirstefinasp.netcoredemo\\dbfirstefinasp.netcoredemo\\views\\northwind\\spaincustomers2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79880B75-C857-E1CE-9544-FC3DD33FED96}|DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo.csproj|solutionrelative:dbfirstefinasp.netcoredemo\\views\\northwind\\spaincustomers2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880B75-C857-E1CE-9544-FC3DD33FED96}|DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo.csproj|e:\\capegemini\\visual studio\\day 49 projects\\dbfirstefinasp.netcoredemo\\dbfirstefinasp.netcoredemo\\views\\northwind\\productsincategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79880B75-C857-E1CE-9544-FC3DD33FED96}|DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo.csproj|solutionrelative:dbfirstefinasp.netcoredemo\\views\\northwind\\productsincategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerOrderDetails.cshtml",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day 49 Projects\\DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo\\Views\\Northwind\\CustomerOrderDetails.cshtml",
+              "RelativeDocumentMoniker": "DBFirstEFinAsp.netcoreDemo\\Views\\Northwind\\CustomerOrderDetails.cshtml",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day 49 Projects\\DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo\\Views\\Northwind\\CustomerOrderDetails.cshtml",
+              "RelativeToolTip": "DBFirstEFinAsp.netcoreDemo\\Views\\Northwind\\CustomerOrderDetails.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T08:42:33.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderRange.cshtml",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day 49 Projects\\DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo\\Views\\Northwind\\OrderRange.cshtml",
+              "RelativeDocumentMoniker": "DBFirstEFinAsp.netcoreDemo\\Views\\Northwind\\OrderRange.cshtml",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day 49 Projects\\DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo\\Views\\Northwind\\OrderRange.cshtml",
+              "RelativeToolTip": "DBFirstEFinAsp.netcoreDemo\\Views\\Northwind\\OrderRange.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T08:34:52.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdCat.cs",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day 49 Projects\\DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo\\Models\\ProdCat.cs",
+              "RelativeDocumentMoniker": "DBFirstEFinAsp.netcoreDemo\\Models\\ProdCat.cs",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day 49 Projects\\DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo\\Models\\ProdCat.cs",
+              "RelativeToolTip": "DBFirstEFinAsp.netcoreDemo\\Models\\ProdCat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T04:12:27.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day 49 Projects\\DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "DBFirstEFinAsp.netcoreDemo\\Models\\Customer.cs",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day 49 Projects\\DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo\\Models\\Customer.cs",
+              "RelativeToolTip": "DBFirstEFinAsp.netcoreDemo\\Models\\Customer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T08:12:21.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsInCategory.cshtml",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day 49 Projects\\DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo\\Views\\Northwind\\ProductsInCategory.cshtml",
+              "RelativeDocumentMoniker": "DBFirstEFinAsp.netcoreDemo\\Views\\Northwind\\ProductsInCategory.cshtml",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day 49 Projects\\DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo\\Views\\Northwind\\ProductsInCategory.cshtml",
+              "RelativeToolTip": "DBFirstEFinAsp.netcoreDemo\\Views\\Northwind\\ProductsInCategory.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T04:25:08.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpainCustomers2.cshtml",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day 49 Projects\\DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo\\Views\\Northwind\\SpainCustomers2.cshtml",
+              "RelativeDocumentMoniker": "DBFirstEFinAsp.netcoreDemo\\Views\\Northwind\\SpainCustomers2.cshtml",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day 49 Projects\\DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo\\Views\\Northwind\\SpainCustomers2.cshtml",
+              "RelativeToolTip": "DBFirstEFinAsp.netcoreDemo\\Views\\Northwind\\SpainCustomers2.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwCsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T07:03:50.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "searchCustomer.cshtml",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day 49 Projects\\DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo\\Views\\Northwind\\searchCustomer.cshtml",
+              "RelativeDocumentMoniker": "DBFirstEFinAsp.netcoreDemo\\Views\\Northwind\\searchCustomer.cshtml",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day 49 Projects\\DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo\\Views\\Northwind\\searchCustomer.cshtml",
+              "RelativeToolTip": "DBFirstEFinAsp.netcoreDemo\\Views\\Northwind\\searchCustomer.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T06:23:11.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NorthwindController.cs",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day 49 Projects\\DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo\\Controllers\\NorthwindController.cs",
+              "RelativeDocumentMoniker": "DBFirstEFinAsp.netcoreDemo\\Controllers\\NorthwindController.cs",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day 49 Projects\\DBFirstEFinAsp.netcoreDemo\\DBFirstEFinAsp.netcoreDemo\\Controllers\\NorthwindController.cs",
+              "RelativeToolTip": "DBFirstEFinAsp.netcoreDemo\\Controllers\\NorthwindController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAiwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:01:19.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

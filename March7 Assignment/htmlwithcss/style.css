@@ -1,0 +1,18 @@
+ h1{
+        background-color: lightblue;color:red
+
+       }
+       #div1{
+        font-size: 16px;font-weight: bold;background-color: lightgray;color: blueviolet
+
+       }
+       #div2{
+background-color: chartreuse;color:brown;border-radius: 20px;box-shadow: 3px 3px 5px  rgba((100,10,10),green,blue);
+       }
+       p{
+        background-color:
+darkgoldenrod; color: darkgreen;display: block;
+       }
+       span{
+        background-color: cyan;color:red"
+       }

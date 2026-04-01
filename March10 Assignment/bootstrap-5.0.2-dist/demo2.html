@@ -1,0 +1,363 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Company Management Portal</title>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<link href="css2/watch.css" rel="stylesheet">
+<link href="css2/watch1.css" rel="stylesheet">
+
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+
+<div class="container-fluid">
+
+<a class="navbar-brand" href="#">TechCorp Portal</a>
+
+<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMenu">
+<span class="navbar-toggler-icon"></span>
+</button>
+
+<div class="collapse navbar-collapse" id="navbarMenu">
+
+<ul class="navbar-nav me-auto">
+
+<li class="nav-item">
+<a class="nav-link active" href="#">Dashboard</a>
+</li>
+
+<li class="nav-item">
+<a class="nav-link" href="#">Services</a>
+</li>
+
+<li class="nav-item">
+<a class="nav-link" href="#">Pricing</a>
+</li>
+
+<li class="nav-item">
+<a class="nav-link" href="#">Company</a>
+</li>
+
+<li class="nav-item dropdown">
+
+<a class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Resources</a>
+
+<div class="dropdown-menu">
+<a class="dropdown-item">Documentation</a>
+<a class="dropdown-item">API Access</a>
+<a class="dropdown-item">Support</a>
+
+<div class="dropdown-divider"></div>
+
+<a class="dropdown-item">Contact Team</a>
+
+</div>
+
+</li>
+
+</ul>
+
+<form class="d-flex">
+<input class="form-control me-2" type="search" placeholder="Search services">
+<button class="btn btn-secondary">Search</button>
+</form>
+
+</div>
+</div>
+</nav>
+
+
+<div class="container mt-5">
+
+    
+<!-- ================= SYSTEM NOTIFICATIONS ================= -->
+
+<!-- ================= PAGE INTRODUCTION ================= -->
+
+<section class="mb-5">
+
+<h1>Welcome to TechCorp Management Portal</h1>
+
+<p class="lead">
+Manage services, users, and company resources efficiently through this centralized dashboard.
+</p>
+
+</section>
+
+
+
+<section class="mb-5">
+
+<h2>Quick Action Controls</h2>
+
+<p class="text-muted">
+Use these buttons to perform common administrative actions.
+</p>
+
+<div class="mb-3">
+
+<button class="btn btn-primary">Create Record</button>
+<button class="btn btn-secondary">Edit Record</button>
+<button class="btn btn-success">Approve Request</button>
+<button class="btn btn-info">View Details</button>
+<button class="btn btn-warning">Send Warning</button>
+<button class="btn btn-danger">Delete Record</button>
+<button class="btn btn-dark">System Settings</button>
+<button class="btn btn-link">Learn More</button>
+
+</div>
+
+</section>
+
+
+<section class="mb-5">
+
+<h2>Priority Action Buttons</h2>
+
+<p class="text-muted">
+Different button sizes indicate priority levels for actions.
+</p>
+
+<button class="btn btn-primary btn-lg">Primary System Action</button>
+<button class="btn btn-primary">Standard Action</button>
+<button class="btn btn-primary btn-sm">Minor Action</button>
+
+</section>
+
+
+
+<section class="mb-5">
+
+<h2>Company Information Overview</h2>
+
+<h3>
+TechCorp Solutions
+<small class="text-body-secondary">Innovating Digital Infrastructure</small>
+</h3>
+
+<p>
+TechCorp provides enterprise-level digital infrastructure and cloud management solutions for modern businesses.
+</p>
+
+</section>
+
+
+
+
+<section class="mb-5">
+
+<h2>User Registration Form</h2>
+
+<p class="text-muted">
+Fill in the details below to register a new user in the company portal.
+</p>
+
+<form>
+
+<fieldset>
+
+<legend>User Account Details</legend>
+
+<div class="row mb-3">
+
+<label class="col-sm-2 col-form-label">Registered Email</label>
+
+<div class="col-sm-10">
+<input type="text" class="form-control-plaintext" value="admin@techcorp.com" readonly>
+</div>
+
+</div>
+
+
+<div class="mb-3">
+<label class="form-label">Email Address</label>
+<input type="email" class="form-control" placeholder="Enter user email">
+</div>
+
+
+<div class="mb-3">
+<label class="form-label">Password</label>
+<input type="password" class="form-control" placeholder="Create password">
+</div>
+
+
+<div class="mb-3">
+
+<label class="form-label">Department</label>
+
+<select class="form-select">
+<option>Engineering</option>
+<option>Marketing</option>
+<option>Finance</option>
+<option>Customer Support</option>
+</select>
+
+</div>
+
+
+<div class="mb-3">
+
+<label class="form-label">User Notes</label>
+
+<textarea class="form-control" rows="3"></textarea>
+
+</div>
+
+
+<div class="mb-3">
+
+<label class="form-label">Upload Profile Photo</label>
+
+<input class="form-control" type="file">
+
+</div>
+
+
+<fieldset class="mb-3">
+
+<legend>User Role</legend>
+
+<div class="form-check">
+<input class="form-check-input" type="radio" name="role">
+<label class="form-check-label">Administrator</label>
+</div>
+
+<div class="form-check">
+<input class="form-check-input" type="radio" name="role">
+<label class="form-check-label">Standard User</label>
+</div>
+
+</fieldset>
+
+
+<fieldset class="mb-3">
+
+<legend>Permissions</legend>
+
+<div class="form-check">
+<input class="form-check-input" type="checkbox">
+<label class="form-check-label">Access Reports</label>
+</div>
+
+<div class="form-check">
+<input class="form-check-input" type="checkbox">
+<label class="form-check-label">Manage Users</label>
+</div>
+
+</fieldset>
+
+
+<button class="btn btn-primary">Register User</button>
+
+</fieldset>
+
+</form>
+
+</section>
+
+
+
+<!-- ================= EMPLOYEE DATA TABLE ================= -->
+
+<section class="mb-5">
+
+<h2>Employee Records</h2>
+
+<p class="text-muted">
+Below is the current employee status within the organization.
+</p>
+
+<table class="table table-hover">
+
+<thead>
+
+<tr>
+<th>Status</th>
+<th>Employee Name</th>
+<th>Department</th>
+<th>Role</th>
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr class="table-success">
+<th>Active</th>
+<td>Rahul Sharma</td>
+<td>Engineering</td>
+<td>Software Developer</td>
+</tr>
+
+<tr>
+<th>Active</th>
+<td>Priya Verma</td>
+<td>Marketing</td>
+<td>Marketing Manager</td>
+</tr>
+
+<tr class="table-warning">
+<th>On Leave</th>
+<td>Amit Singh</td>
+<td>Finance</td>
+<td>Accountant</td>
+</tr>
+
+<tr class="table-danger">
+<th>Inactive</th>
+<td>Neha Kapoor</td>
+<td>Support</td>
+<td>Customer Specialist</td>
+</tr>
+
+</tbody>
+
+</table>
+
+</section>
+
+<section class="mb-5">
+
+<h2>System Notifications</h2>
+
+<p class="text-muted">
+This section displays recent system alerts and pending administrative tasks.
+</p>
+
+<ul class="list-group">
+
+<li class="list-group-item d-flex justify-content-between align-items-center">
+Pending User Approvals
+<span class="badge bg-primary rounded-pill">14</span>
+</li>
+
+<li class="list-group-item d-flex justify-content-between align-items-center">
+Support Tickets Awaiting Response
+<span class="badge bg-primary rounded-pill">2</span>
+</li>
+
+<li class="list-group-item d-flex justify-content-between align-items-center">
+New System Updates Available
+<span class="badge bg-prima ry rounded-pill">1</span>
+</li>
+
+</ul>
+
+</section>
+
+
+</div>
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>
+

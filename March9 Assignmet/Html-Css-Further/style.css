@@ -1,0 +1,127 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+body{
+font-family:Arial, Helvetica, sans-serif;
+}
+
+/* CONTAINER */
+
+#container{
+width:90%;
+margin:auto;
+background:gray;
+}
+
+/* HEADER */
+
+header{
+background:rgb(138,21,21);
+color:white;
+padding:40px;
+text-align:center;
+}
+
+/* NAVIGATION */
+
+nav ul{
+background:orange;
+overflow:hidden;
+}
+
+nav ul li{
+list-style:none;
+float:left;
+width:120px;
+text-align:center;
+padding:10px;
+}
+
+nav ul li:hover{
+background:lightcoral;
+cursor:pointer;
+}
+
+/* SECTION */
+
+section{
+float:left;
+width:70%;
+background:aqua;
+min-height:400px;
+}
+
+/* ARTICLE */
+
+article{
+margin:10px;
+border-bottom:1px solid black;
+}
+
+article h1{
+font-size:25px;
+background:#e0e0e0;
+padding:10px;
+}
+
+article p{
+margin:10px 0;
+}
+
+.meta{
+color:gray;
+margin:10px 0;
+font-size:14px;
+}
+
+/* SIDEBAR */
+
+aside{
+float:left;
+width:30%;
+background:fuchsia;
+min-height:400px;
+padding:15px;
+}
+
+/* LATEST POSTS */
+
+.latest-posts{
+background:white;
+padding:8px;
+margin-top:5px;
+border-bottom:1px solid gray;
+}
+
+/* NEWSLETTER */
+
+#side-bottom{
+margin-top:20px;
+}
+
+input[type="email"]{
+width:90%;
+padding:8px;
+margin-bottom:10px;
+}
+
+input[type="submit"]{
+padding:8px 15px;
+background:black;
+color:white;
+border:none;
+cursor:pointer;
+}
+
+/* FOOTER */
+
+footer{
+clear:both;
+background:black;
+color:white;
+text-align:center;
+padding:15px;
+}

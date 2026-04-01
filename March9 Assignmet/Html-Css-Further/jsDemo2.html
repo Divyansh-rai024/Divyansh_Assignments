@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+<script type ="">
+    function add(){
+        var total;
+        var first=parseFloat(document.getElementById("text1").value);
+        var second=parseFloat(document.getElementById("text2").value);
+        total=first+second;
+        alert("th total is "+total);
+    }
+
+      function add1(){
+        var total;
+       
+var first = parseFloat(document.getElementsByName("first")[0].value);
+var second = parseFloat(document.getElementsByName("second")[0].value);
+ total=first+second;
+        alert('th total is '+total);
+    }
+ 
+</script>
+<body>
+    <pre>
+        1st Number: <input type="text" id="text1" name ="first" placeholder= "Enter 1st Number" >
+        2nd Number: <input type="text" id="text2" name ="second" placeholder= "Enter 2nd Number" >
+
+<input type="button" value="Sum" onclick="add1()">
+    </pre>
+</body>
+</html>

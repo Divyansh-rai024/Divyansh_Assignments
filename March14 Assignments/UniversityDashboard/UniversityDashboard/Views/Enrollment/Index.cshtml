@@ -1,0 +1,35 @@
+﻿@model IEnumerable<UniversityDashboard.Models.StudentCoursesVM>
+
+<h2>Student Course Dashboard</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Branch</th>
+            <th>Course Count</th>
+            <th>Courses</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        @foreach (var s in Model)
+        {
+            <tr>
+                <td>@s.Name</td>
+                <td>@s.Branch</td>
+                <td>@s.CourseCount</td>
+                <td>@string.Join(", ", s.CourseTitles)</td>
+
+                <td>
+                    <a asp-action="Details" asp-route-studentId="@s.StudentId">
+                        View
+                    </a>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>

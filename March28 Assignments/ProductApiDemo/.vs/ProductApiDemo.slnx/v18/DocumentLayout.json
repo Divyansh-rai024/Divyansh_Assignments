@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Divyansh_Assignment\\March28 Assignments\\ProductApiDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{234087DF-8F14-47E7-902A-E70F580577CB}|ProductMvcApp\\ProductMvcApp.csproj|e:\\divyansh_assignment\\march28 assignments\\productapidemo\\productmvcapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234087DF-8F14-47E7-902A-E70F580577CB}|ProductMvcApp\\ProductMvcApp.csproj|solutionrelative:productmvcapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234087DF-8F14-47E7-902A-E70F580577CB}|ProductMvcApp\\ProductMvcApp.csproj|e:\\divyansh_assignment\\march28 assignments\\productapidemo\\productmvcapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{234087DF-8F14-47E7-902A-E70F580577CB}|ProductMvcApp\\ProductMvcApp.csproj|solutionrelative:productmvcapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234087DF-8F14-47E7-902A-E70F580577CB}|ProductMvcApp\\ProductMvcApp.csproj|e:\\divyansh_assignment\\march28 assignments\\productapidemo\\productmvcapp\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{234087DF-8F14-47E7-902A-E70F580577CB}|ProductMvcApp\\ProductMvcApp.csproj|solutionrelative:productmvcapp\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234087DF-8F14-47E7-902A-E70F580577CB}|ProductMvcApp\\ProductMvcApp.csproj|e:\\divyansh_assignment\\march28 assignments\\productapidemo\\productmvcapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{234087DF-8F14-47E7-902A-E70F580577CB}|ProductMvcApp\\ProductMvcApp.csproj|solutionrelative:productmvcapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A32D764-6C44-7944-2401-C1B40228B47D}|ProductApiDemo\\ProductApiDemo.csproj|e:\\divyansh_assignment\\march28 assignments\\productapidemo\\productapidemo\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A32D764-6C44-7944-2401-C1B40228B47D}|ProductApiDemo\\ProductApiDemo.csproj|solutionrelative:productapidemo\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A32D764-6C44-7944-2401-C1B40228B47D}|ProductApiDemo\\ProductApiDemo.csproj|e:\\divyansh_assignment\\march28 assignments\\productapidemo\\productapidemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A32D764-6C44-7944-2401-C1B40228B47D}|ProductApiDemo\\ProductApiDemo.csproj|solutionrelative:productapidemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A32D764-6C44-7944-2401-C1B40228B47D}|ProductApiDemo\\ProductApiDemo.csproj|e:\\divyansh_assignment\\march28 assignments\\productapidemo\\productapidemo\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A32D764-6C44-7944-2401-C1B40228B47D}|ProductApiDemo\\ProductApiDemo.csproj|solutionrelative:productapidemo\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A32D764-6C44-7944-2401-C1B40228B47D}|ProductApiDemo\\ProductApiDemo.csproj|e:\\divyansh_assignment\\march28 assignments\\productapidemo\\productapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A32D764-6C44-7944-2401-C1B40228B47D}|ProductApiDemo\\ProductApiDemo.csproj|solutionrelative:productapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A32D764-6C44-7944-2401-C1B40228B47D}|ProductApiDemo\\ProductApiDemo.csproj|e:\\divyansh_assignment\\march28 assignments\\productapidemo\\productapidemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A32D764-6C44-7944-2401-C1B40228B47D}|ProductApiDemo\\ProductApiDemo.csproj|solutionrelative:productapidemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A32D764-6C44-7944-2401-C1B40228B47D}|ProductApiDemo\\ProductApiDemo.csproj|e:\\divyansh_assignment\\march28 assignments\\productapidemo\\productapidemo\\models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A32D764-6C44-7944-2401-C1B40228B47D}|ProductApiDemo\\ProductApiDemo.csproj|solutionrelative:productapidemo\\models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A32D764-6C44-7944-2401-C1B40228B47D}|ProductApiDemo\\ProductApiDemo.csproj|e:\\divyansh_assignment\\march28 assignments\\productapidemo\\productapidemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A32D764-6C44-7944-2401-C1B40228B47D}|ProductApiDemo\\ProductApiDemo.csproj|solutionrelative:productapidemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234087DF-8F14-47E7-902A-E70F580577CB}|ProductMvcApp\\ProductMvcApp.csproj|e:\\divyansh_assignment\\march28 assignments\\productapidemo\\productmvcapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234087DF-8F14-47E7-902A-E70F580577CB}|ProductMvcApp\\ProductMvcApp.csproj|solutionrelative:productmvcapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Divyansh_Assignment\\March28 Assignments\\ProductApiDemo\\ProductMvcApp\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProductMvcApp\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "E:\\Divyansh_Assignment\\March28 Assignments\\ProductApiDemo\\ProductMvcApp\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "ProductMvcApp\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwCAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-28T06:06:31.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Divyansh_Assignment\\March28 Assignments\\ProductApiDemo\\ProductMvcApp\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProductMvcApp\\Views\\Product\\Create.cshtml",
+              "ToolTip": "E:\\Divyansh_Assignment\\March28 Assignments\\ProductApiDemo\\ProductMvcApp\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ProductMvcApp\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-28T06:03:50.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Divyansh_Assignment\\March28 Assignments\\ProductApiDemo\\ProductMvcApp\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductMvcApp\\Views\\Product\\Index.cshtml",
+              "ToolTip": "E:\\Divyansh_Assignment\\March28 Assignments\\ProductApiDemo\\ProductMvcApp\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ProductMvcApp\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-28T05:58:09.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\Divyansh_Assignment\\March28 Assignments\\ProductApiDemo\\ProductMvcApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductMvcApp\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Divyansh_Assignment\\March28 Assignments\\ProductApiDemo\\ProductMvcApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductMvcApp\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T05:55:07.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Divyansh_Assignment\\March28 Assignments\\ProductApiDemo\\ProductMvcApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductMvcApp\\Models\\Product.cs",
+              "ToolTip": "E:\\Divyansh_Assignment\\March28 Assignments\\ProductApiDemo\\ProductMvcApp\\Models\\Product.cs",
+              "RelativeToolTip": "ProductMvcApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T05:51:55.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\Divyansh_Assignment\\March28 Assignments\\ProductApiDemo\\ProductApiDemo\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductApiDemo\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Divyansh_Assignment\\March28 Assignments\\ProductApiDemo\\ProductApiDemo\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductApiDemo\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T04:47:00.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\Divyansh_Assignment\\March28 Assignments\\ProductApiDemo\\ProductApiDemo\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductApiDemo\\Services\\ProductService.cs",
+              "ToolTip": "E:\\Divyansh_Assignment\\March28 Assignments\\ProductApiDemo\\ProductApiDemo\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProductApiDemo\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T04:45:33.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "E:\\Divyansh_Assignment\\March28 Assignments\\ProductApiDemo\\ProductApiDemo\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "ProductApiDemo\\Services\\IProductService.cs",
+              "ToolTip": "E:\\Divyansh_Assignment\\March28 Assignments\\ProductApiDemo\\ProductApiDemo\\Services\\IProductService.cs",
+              "RelativeToolTip": "ProductApiDemo\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T04:43:03.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Divyansh_Assignment\\March28 Assignments\\ProductApiDemo\\ProductApiDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ProductApiDemo\\Program.cs",
+              "ToolTip": "E:\\Divyansh_Assignment\\March28 Assignments\\ProductApiDemo\\ProductApiDemo\\Program.cs",
+              "RelativeToolTip": "ProductApiDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T04:39:58.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Divyansh_Assignment\\March28 Assignments\\ProductApiDemo\\ProductApiDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductApiDemo\\appsettings.json",
+              "ToolTip": "E:\\Divyansh_Assignment\\March28 Assignments\\ProductApiDemo\\ProductApiDemo\\appsettings.json",
+              "RelativeToolTip": "ProductApiDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-28T04:35:15.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "E:\\Divyansh_Assignment\\March28 Assignments\\ProductApiDemo\\ProductApiDemo\\Models\\ProductContext.cs",
+              "RelativeDocumentMoniker": "ProductApiDemo\\Models\\ProductContext.cs",
+              "ToolTip": "E:\\Divyansh_Assignment\\March28 Assignments\\ProductApiDemo\\ProductApiDemo\\Models\\ProductContext.cs",
+              "RelativeToolTip": "ProductApiDemo\\Models\\ProductContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T04:35:04.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Divyansh_Assignment\\March28 Assignments\\ProductApiDemo\\ProductApiDemo\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductApiDemo\\Models\\Product.cs",
+              "ToolTip": "E:\\Divyansh_Assignment\\March28 Assignments\\ProductApiDemo\\ProductApiDemo\\Models\\Product.cs",
+              "RelativeToolTip": "ProductApiDemo\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T04:32:28.957Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

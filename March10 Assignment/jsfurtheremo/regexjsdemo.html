@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Email Validation</title>
+
+<script>
+function validate() {
+
+    var regex = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;
+
+    var email = document.getElementById("text").value;
+
+    if (regex.test(email)) {
+        document.getElementById("result").innerHTML = "Valid email address!";
+        document.getElementById("result").style.color = "green";
+        return true;
+    } 
+    else {
+        document.getElementById("result").innerHTML = "Invalid email address!";
+        document.getElementById("result").style.color = "red";
+        return false;
+    }
+}
+</script>
+
+</head>
+
+<body>
+
+<form>
+<table>
+<tr>
+<td>
+<input type="text" placeholder="email" id="text">
+</td>
+
+<td>
+<div id="result"></div>
+</td>
+</tr>
+</table>
+
+<br><br>
+
+<button onclick="validate()" type="button">Submit</button>
+
+</form>
+
+</body>
+</html>

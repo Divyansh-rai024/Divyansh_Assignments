@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Capegemini\\Visual Studio\\Day56 Projects\\WebAPIinAsp.netcoreMvcDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebAPIinAsp.netcoreMvcDemo\\WebAPIinAsp.netcoreMvcDemo.csproj|e:\\capegemini\\visual studio\\day56 projects\\webapiinasp.netcoremvcdemo\\webapiinasp.netcoremvcdemo\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebAPIinAsp.netcoreMvcDemo\\WebAPIinAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebAPIinAsp.netcoreMvcDemo\\WebAPIinAsp.netcoreMvcDemo.csproj|e:\\capegemini\\visual studio\\day56 projects\\webapiinasp.netcoremvcdemo\\webapiinasp.netcoremvcdemo\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebAPIinAsp.netcoreMvcDemo\\WebAPIinAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebAPIinAsp.netcoreMvcDemo\\WebAPIinAsp.netcoreMvcDemo.csproj|e:\\capegemini\\visual studio\\day56 projects\\webapiinasp.netcoremvcdemo\\webapiinasp.netcoremvcdemo\\views\\home\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebAPIinAsp.netcoreMvcDemo\\WebAPIinAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\views\\home\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebAPIinAsp.netcoreMvcDemo\\WebAPIinAsp.netcoreMvcDemo.csproj|e:\\capegemini\\visual studio\\day56 projects\\webapiinasp.netcoremvcdemo\\webapiinasp.netcoremvcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebAPIinAsp.netcoreMvcDemo\\WebAPIinAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebAPIinAsp.netcoreMvcDemo\\WebAPIinAsp.netcoreMvcDemo.csproj|e:\\capegemini\\visual studio\\day56 projects\\webapiinasp.netcoremvcdemo\\webapiinasp.netcoremvcdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebAPIinAsp.netcoreMvcDemo\\WebAPIinAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebAPIinAsp.netcoreMvcDemo\\WebAPIinAsp.netcoreMvcDemo.csproj|e:\\capegemini\\visual studio\\day56 projects\\webapiinasp.netcoremvcdemo\\webapiinasp.netcoremvcdemo\\models\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebAPIinAsp.netcoreMvcDemo\\WebAPIinAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\models\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebAPIinAsp.netcoreMvcDemo\\WebAPIinAsp.netcoreMvcDemo.csproj|e:\\capegemini\\visual studio\\day56 projects\\webapiinasp.netcoremvcdemo\\webapiinasp.netcoremvcdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA154659-3542-8C9B-FE23-2AE0ADA8CE33}|WebAPIinAsp.netcoreMvcDemo\\WebAPIinAsp.netcoreMvcDemo.csproj|solutionrelative:webapiinasp.netcoremvcdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day56 Projects\\WebAPIinAsp.netcoreMvcDemo\\WebAPIinAsp.netcoreMvcDemo\\Views\\Home\\Index2.cshtml",
+              "RelativeDocumentMoniker": "WebAPIinAsp.netcoreMvcDemo\\Views\\Home\\Index2.cshtml",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day56 Projects\\WebAPIinAsp.netcoreMvcDemo\\WebAPIinAsp.netcoreMvcDemo\\Views\\Home\\Index2.cshtml*",
+              "RelativeToolTip": "WebAPIinAsp.netcoreMvcDemo\\Views\\Home\\Index2.cshtml*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T09:17:29.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day56 Projects\\WebAPIinAsp.netcoreMvcDemo\\WebAPIinAsp.netcoreMvcDemo\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPIinAsp.netcoreMvcDemo\\Program.cs",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day56 Projects\\WebAPIinAsp.netcoreMvcDemo\\WebAPIinAsp.netcoreMvcDemo\\Program.cs",
+              "RelativeToolTip": "WebAPIinAsp.netcoreMvcDemo\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:40:35.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day56 Projects\\WebAPIinAsp.netcoreMvcDemo\\WebAPIinAsp.netcoreMvcDemo\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "WebAPIinAsp.netcoreMvcDemo\\EmployeeService.cs",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day56 Projects\\WebAPIinAsp.netcoreMvcDemo\\WebAPIinAsp.netcoreMvcDemo\\EmployeeService.cs*",
+              "RelativeToolTip": "WebAPIinAsp.netcoreMvcDemo\\EmployeeService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:38:52.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day56 Projects\\WebAPIinAsp.netcoreMvcDemo\\WebAPIinAsp.netcoreMvcDemo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebAPIinAsp.netcoreMvcDemo\\Models\\Employee.cs",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day56 Projects\\WebAPIinAsp.netcoreMvcDemo\\WebAPIinAsp.netcoreMvcDemo\\Models\\Employee.cs",
+              "RelativeToolTip": "WebAPIinAsp.netcoreMvcDemo\\Models\\Employee.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:27:12.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeUpdateDto.cs",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day56 Projects\\WebAPIinAsp.netcoreMvcDemo\\WebAPIinAsp.netcoreMvcDemo\\Models\\EmployeeUpdateDto.cs",
+              "RelativeDocumentMoniker": "WebAPIinAsp.netcoreMvcDemo\\Models\\EmployeeUpdateDto.cs",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day56 Projects\\WebAPIinAsp.netcoreMvcDemo\\WebAPIinAsp.netcoreMvcDemo\\Models\\EmployeeUpdateDto.cs",
+              "RelativeToolTip": "WebAPIinAsp.netcoreMvcDemo\\Models\\EmployeeUpdateDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:16:05.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day56 Projects\\WebAPIinAsp.netcoreMvcDemo\\WebAPIinAsp.netcoreMvcDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAPIinAsp.netcoreMvcDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day56 Projects\\WebAPIinAsp.netcoreMvcDemo\\WebAPIinAsp.netcoreMvcDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAPIinAsp.netcoreMvcDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T06:34:50.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day56 Projects\\WebAPIinAsp.netcoreMvcDemo\\WebAPIinAsp.netcoreMvcDemo\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "WebAPIinAsp.netcoreMvcDemo\\Controllers\\EmpController.cs",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day56 Projects\\WebAPIinAsp.netcoreMvcDemo\\WebAPIinAsp.netcoreMvcDemo\\Controllers\\EmpController.cs*",
+              "RelativeToolTip": "WebAPIinAsp.netcoreMvcDemo\\Controllers\\EmpController.cs*",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAswBcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T06:00:57.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
