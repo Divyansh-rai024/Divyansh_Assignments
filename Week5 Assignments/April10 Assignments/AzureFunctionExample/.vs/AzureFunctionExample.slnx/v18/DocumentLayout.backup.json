@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Capegemini\\Visual Studio\\Day68 Projects\\AzureFunctionExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF51EFBF-6584-3649-6206-B97EAD73F2A2}|TangyAzureFunc\\TangyAzureFunc.csproj|e:\\capegemini\\visual studio\\day68 projects\\azurefunctionexample\\tangyazurefunc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF51EFBF-6584-3649-6206-B97EAD73F2A2}|TangyAzureFunc\\TangyAzureFunc.csproj|solutionrelative:tangyazurefunc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF51EFBF-6584-3649-6206-B97EAD73F2A2}|TangyAzureFunc\\TangyAzureFunc.csproj|e:\\capegemini\\visual studio\\day68 projects\\azurefunctionexample\\tangyazurefunc\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FF51EFBF-6584-3649-6206-B97EAD73F2A2}|TangyAzureFunc\\TangyAzureFunc.csproj|solutionrelative:tangyazurefunc\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF51EFBF-6584-3649-6206-B97EAD73F2A2}|TangyAzureFunc\\TangyAzureFunc.csproj|e:\\capegemini\\visual studio\\day68 projects\\azurefunctionexample\\tangyazurefunc\\onqueuetriggerupdatedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF51EFBF-6584-3649-6206-B97EAD73F2A2}|TangyAzureFunc\\TangyAzureFunc.csproj|solutionrelative:tangyazurefunc\\onqueuetriggerupdatedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF51EFBF-6584-3649-6206-B97EAD73F2A2}|TangyAzureFunc\\TangyAzureFunc.csproj|e:\\capegemini\\visual studio\\day68 projects\\azurefunctionexample\\tangyazurefunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF51EFBF-6584-3649-6206-B97EAD73F2A2}|TangyAzureFunc\\TangyAzureFunc.csproj|solutionrelative:tangyazurefunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF51EFBF-6584-3649-6206-B97EAD73F2A2}|TangyAzureFunc\\TangyAzureFunc.csproj|e:\\capegemini\\visual studio\\day68 projects\\azurefunctionexample\\tangyazurefunc\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF51EFBF-6584-3649-6206-B97EAD73F2A2}|TangyAzureFunc\\TangyAzureFunc.csproj|solutionrelative:tangyazurefunc\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5658F3-C370-624C-BA77-9AA8891E1A31}|AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb.csproj|e:\\capegemini\\visual studio\\day68 projects\\azurefunctionexample\\azurefunctionstangyweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5658F3-C370-624C-BA77-9AA8891E1A31}|AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb.csproj|solutionrelative:azurefunctionstangyweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF51EFBF-6584-3649-6206-B97EAD73F2A2}|TangyAzureFunc\\TangyAzureFunc.csproj|e:\\capegemini\\visual studio\\day68 projects\\azurefunctionexample\\tangyazurefunc\\onsalesuploadwritetoqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF51EFBF-6584-3649-6206-B97EAD73F2A2}|TangyAzureFunc\\TangyAzureFunc.csproj|solutionrelative:tangyazurefunc\\onsalesuploadwritetoqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5658F3-C370-624C-BA77-9AA8891E1A31}|AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb.csproj|e:\\capegemini\\visual studio\\day68 projects\\azurefunctionexample\\azurefunctionstangyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5658F3-C370-624C-BA77-9AA8891E1A31}|AzureFunctionsTangyWeb\\AzureFunctionsTangyWeb.csproj|solutionrelative:azurefunctionstangyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF51EFBF-6584-3649-6206-B97EAD73F2A2}|TangyAzureFunc\\TangyAzureFunc.csproj|e:\\capegemini\\visual studio\\day68 projects\\azurefunctionexample\\tangyazurefunc\\models\\salesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF51EFBF-6584-3649-6206-B97EAD73F2A2}|TangyAzureFunc\\TangyAzureFunc.csproj|solutionrelative:tangyazurefunc\\models\\salesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day68 Projects\\AzureFunctionExample\\TangyAzureFunc\\.gitignore",
+              "RelativeDocumentMoniker": "TangyAzureFunc\\.gitignore",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day68 Projects\\AzureFunctionExample\\TangyAzureFunc\\.gitignore",
+              "RelativeToolTip": "TangyAzureFunc\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-10T06:49:03.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OnQueueTriggerUpdateDatabase.cs",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day68 Projects\\AzureFunctionExample\\TangyAzureFunc\\OnQueueTriggerUpdateDatabase.cs",
+              "RelativeDocumentMoniker": "TangyAzureFunc\\OnQueueTriggerUpdateDatabase.cs",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day68 Projects\\AzureFunctionExample\\TangyAzureFunc\\OnQueueTriggerUpdateDatabase.cs",
+              "RelativeToolTip": "TangyAzureFunc\\OnQueueTriggerUpdateDatabase.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T06:22:17.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day68 Projects\\AzureFunctionExample\\TangyAzureFunc\\Program.cs",
+              "RelativeDocumentMoniker": "TangyAzureFunc\\Program.cs",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day68 Projects\\AzureFunctionExample\\TangyAzureFunc\\Program.cs",
+              "RelativeToolTip": "TangyAzureFunc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T06:19:16.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day68 Projects\\AzureFunctionExample\\TangyAzureFunc\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TangyAzureFunc\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day68 Projects\\AzureFunctionExample\\TangyAzureFunc\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TangyAzureFunc\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T06:11:35.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day68 Projects\\AzureFunctionExample\\TangyAzureFunc\\local.settings.json",
+              "RelativeDocumentMoniker": "TangyAzureFunc\\local.settings.json",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day68 Projects\\AzureFunctionExample\\TangyAzureFunc\\local.settings.json",
+              "RelativeToolTip": "TangyAzureFunc\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-10T05:56:28.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OnSalesUploadWriteToQueue.cs",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day68 Projects\\AzureFunctionExample\\TangyAzureFunc\\OnSalesUploadWriteToQueue.cs",
+              "RelativeDocumentMoniker": "TangyAzureFunc\\OnSalesUploadWriteToQueue.cs",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day68 Projects\\AzureFunctionExample\\TangyAzureFunc\\OnSalesUploadWriteToQueue.cs",
+              "RelativeToolTip": "TangyAzureFunc\\OnSalesUploadWriteToQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T05:33:23.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalesRequest.cs",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day68 Projects\\AzureFunctionExample\\TangyAzureFunc\\Models\\SalesRequest.cs",
+              "RelativeDocumentMoniker": "TangyAzureFunc\\Models\\SalesRequest.cs",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day68 Projects\\AzureFunctionExample\\TangyAzureFunc\\Models\\SalesRequest.cs",
+              "RelativeToolTip": "TangyAzureFunc\\Models\\SalesRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T05:15:27.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day68 Projects\\AzureFunctionExample\\AzureFunctionsTangyWeb\\Program.cs",
+              "RelativeDocumentMoniker": "AzureFunctionsTangyWeb\\Program.cs",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day68 Projects\\AzureFunctionExample\\AzureFunctionsTangyWeb\\Program.cs",
+              "RelativeToolTip": "AzureFunctionsTangyWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T04:47:08.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day68 Projects\\AzureFunctionExample\\AzureFunctionsTangyWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AzureFunctionsTangyWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day68 Projects\\AzureFunctionExample\\AzureFunctionsTangyWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AzureFunctionsTangyWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA3wCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T04:19:56.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
