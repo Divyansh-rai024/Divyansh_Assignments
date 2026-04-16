@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Divyansh_Assignment\\Week6 Assignments\\April16 Assignments\\cosmosdbfemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{380CA144-C3CA-EF99-C90C-83B6AF5F6DB8}|..\\QrSecureApi\\QrSecureApi.csproj|e:\\divyansh_assignment\\week6 assignments\\april16 assignments\\qrsecureapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C433EE9-12D3-69AF-C941-7A626A2B3E8F}|cosmosdbfemo\\cosmosdbfemo.csproj|e:\\divyansh_assignment\\week6 assignments\\april16 assignments\\cosmosdbfemo\\cosmosdbfemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C433EE9-12D3-69AF-C941-7A626A2B3E8F}|cosmosdbfemo\\cosmosdbfemo.csproj|solutionrelative:cosmosdbfemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380CA144-C3CA-EF99-C90C-83B6AF5F6DB8}|..\\QrSecureApi\\QrSecureApi.csproj|e:\\divyansh_assignment\\week6 assignments\\april16 assignments\\qrsecureapi\\controllers\\qrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380CA144-C3CA-EF99-C90C-83B6AF5F6DB8}|..\\QrSecureApi\\QrSecureApi.csproj|e:\\divyansh_assignment\\week6 assignments\\april16 assignments\\qrsecureapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Models\\LoginSession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Controllers\\QrController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Services\\QrService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Services\\CosmosDbService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Services\\KeyVaultService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Models\\QrItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Divyansh_Assignment\\Week6 Assignments\\April16 Assignments\\QrSecureApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\QrSecureApi\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Divyansh_Assignment\\Week6 Assignments\\April16 Assignments\\QrSecureApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\QrSecureApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-16T10:30:50.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Divyansh_Assignment\\Week6 Assignments\\April16 Assignments\\cosmosdbfemo\\cosmosdbfemo\\appsettings.json",
+              "RelativeDocumentMoniker": "cosmosdbfemo\\appsettings.json",
+              "ToolTip": "E:\\Divyansh_Assignment\\Week6 Assignments\\April16 Assignments\\cosmosdbfemo\\cosmosdbfemo\\appsettings.json",
+              "RelativeToolTip": "cosmosdbfemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-16T10:29:52.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QrController.cs",
+              "DocumentMoniker": "E:\\Divyansh_Assignment\\Week6 Assignments\\April16 Assignments\\QrSecureApi\\Controllers\\QrController.cs",
+              "RelativeDocumentMoniker": "..\\QrSecureApi\\Controllers\\QrController.cs",
+              "ToolTip": "E:\\Divyansh_Assignment\\Week6 Assignments\\April16 Assignments\\QrSecureApi\\Controllers\\QrController.cs",
+              "RelativeToolTip": "..\\QrSecureApi\\Controllers\\QrController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T10:29:43.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Divyansh_Assignment\\Week6 Assignments\\April16 Assignments\\QrSecureApi\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\QrSecureApi\\appsettings.json",
+              "ToolTip": "E:\\Divyansh_Assignment\\Week6 Assignments\\April16 Assignments\\QrSecureApi\\appsettings.json",
+              "RelativeToolTip": "..\\QrSecureApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-16T10:29:26.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\..\\..\\..\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-16T09:16:30.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Models\\Product.cs",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Models\\Product.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:57:32.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginSession.cs",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Models\\LoginSession.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Models\\LoginSession.cs",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Models\\LoginSession.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Models\\LoginSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:33:03.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QrController.cs",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Controllers\\QrController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Controllers\\QrController.cs",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Controllers\\QrController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Controllers\\QrController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:19:14.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Program.cs",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwCgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:18:31.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QrService.cs",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Services\\QrService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Services\\QrService.cs",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Services\\QrService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Services\\QrService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:18:10.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CosmosDbService.cs",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Services\\CosmosDbService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Services\\CosmosDbService.cs",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Services\\CosmosDbService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Services\\CosmosDbService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwEkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:17:17.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KeyVaultService.cs",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Services\\KeyVaultService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Services\\KeyVaultService.cs",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Services\\KeyVaultService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Services\\KeyVaultService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:16:59.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QrItem.cs",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Models\\QrItem.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Models\\QrItem.cs",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Models\\QrItem.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\Models\\QrItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:16:35.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\appsettings.json",
+              "ToolTip": "E:\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\appsettings.json",
+              "RelativeToolTip": "..\\..\\..\\..\\Capegemini\\Visual Studio\\Day73 Projects\\QrSecureApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-16T08:12:57.468Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
